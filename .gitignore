@@ -1,0 +1,10 @@
+/unpackage
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
+node_modules
+dist
+coverage/
+.idea
